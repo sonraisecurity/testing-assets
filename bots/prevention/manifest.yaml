@@ -1,0 +1,8 @@
+version: 2021-01-18
+type: Prevention
+title: Test prevention Bot
+description: This is a testing bot that does nothing
+cloud: AWS
+operation: UPDATE_AWS_PASSWORD_POLICY
+authorName: Sonrai Security
+authorEmail: info@sonraisecurity.com
